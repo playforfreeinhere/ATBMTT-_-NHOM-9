@@ -1,0 +1,4 @@
+This is a sample plaintext file for demo encryption.
+You can replace it with any text to test the CLI.
+
+The quick brown fox jumps over the lazy dog.
